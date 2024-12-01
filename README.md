@@ -10,6 +10,6 @@ Python to quickly get to the solution (kindled competitive spirit) and once agai
 It is always fun to compete in this, even though I usually only get till single digit days :)
 
 ## Why should you participate in Advent of Code?
-<iframe width="560" height="315" src="https://www.youtube.com/embed/ddLbE9aGHno?si=avqUOhT11Ls8VF9H" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+YouTube video - https://youtu.be/ddLbE9aGHno?si=jHXHevUVRGWIKjHK
 
 Merry Christmas and happy coding!!
